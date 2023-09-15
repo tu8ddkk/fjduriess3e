@@ -3,3 +3,8 @@ https://jjkiu--cdefdc.repl.co/0717dcd5-0e77-43f7-854d-98608b84259a-vless
 https://nijid.cdefdc.repl.co/4b38bc2b-d2a8-4492-a612-7bc44aab222a-vless
 https://nijdda.cdefdc.repl.co/1d2443e8-5562-4cf7-bf5c-2e6ae3b90d9f-vless
 https://azjda.cdefdc.repl.co/8dfb7cf5-7487-41a8-afb4-28eaccec8e6c-vless
+vmess://eyJ2IjoiMiIsImFkZCI6Ijc2MTdrd3NlYy41NjEyMzg5Lnh5eiIsInBvcnQiOjQ0Mywic2N5Ijoibm9uZSIsInBzIjoiZHktcy0xLXZtZXNzIiwibmV0Ijoid3MiLCJpZCI6IjVlY2UyNzJlLTk0NmItNDc1NS1hN2U3LTQ1MDViZTY0MjViOSIsImFscG4iOiIiLCJmcCI6ImZpcmVmb3giLCJhaWQiOjAsInR5cGUiOiJub25lIiwiaG9zdCI6Ijc2MTdrd3NlYy41NjEyMzg5Lnh5eiIsInBhdGgiOiIvbXdjbXZ3cyIsInRscyI6InRscyIsInNuaSI6Ijc2MTdrd3NlYy41NjEyMzg5Lnh5eiJ9 
+vless://5ece272e-946b-4755-a7e7-4505be6425b9@162.159.152.63:443?flow=&encryption=none&security=tls&sni=s7pbmjsec.5612389.xyz&type=ws&host=s7pbmjsec.5612389.xyz&path=/mwcmws&headerType=none&alpn=&fp=firefox&pbk=&sid=&spx=#dy-s-4-vless 
+vless://0f90e0a2-b7e6-4e1d-a242-314fd8b18383@162.159.140.80:443?flow=&encryption=none&security=tls&sni=a8ww7vfir.5612389.xyz&type=ws&host=a8ww7vfir.5612389.xyz&path=/oqkacws&headerType=none&alpn=&fp=firefox&pbk=&sid=&spx=#dy-1-vless 
+vless://5ece272e-946b-4755-a7e7-4505be6425b9@rwjrwrsec.5612389.xyz:443?flow=&encryption=none&security=tls&sni=rwjrwrsec.5612389.xyz&type=ws&host=rwjrwrsec.5612389.xyz&path=/mwcmws&headerType=none&alpn=&fp=firefox&pbk=&sid=&spx=#dy-s-3-vless 
+trojan://0f90e0a2-b7e6-4e1d-a242-314fd8b18383@162.159.135.238:443?flow=&security=tls&sni=2l2aavfir.5612389.xyz&type=ws&header=none&host=2l2aavfir.5612389.xyz&path=/oqkactws&alpn=&fp=firefox#dy-2-trojan-go
