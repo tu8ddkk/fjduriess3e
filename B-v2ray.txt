@@ -5,3 +5,8 @@ vless://4b38bc2b-d2a8-4492-a612-7bc44aab222a@nijid.cdefdc.repl.co:443?flow=&encr
 vless://1d2443e8-5562-4cf7-bf5c-2e6ae3b90d9f@nijdda.cdefdc.repl.co:443?flow=&encryption=none&security=tls&sni=nijdda.cdefdc.repl.co&type=ws&host=nijdda.cdefdc.repl.co&path=/1d2443e8-5562-4cf7-bf5c-2e6ae3b90d9f-vless&headerType=none&alpn=&fp=&pbk=&sid=&spx=# 
 vless://8dfb7cf5-7487-41a8-afb4-28eaccec8e6c@azjda.cdefdc.repl.co:443?flow=&encryption=none&security=tls&sni=azjda.cdefdc.repl.co&type=ws&host=azjda.cdefdc.repl.co&path=8dfb7cf5-7487-41a8-afb4-28eaccec8e6c-vless&headerType=none&alpn=&fp=&pbk=&sid=&spx=# 
 vless://a98de81b-fbf6-4503-871f-c4cc0a6b3ae9@nofhdjw.cdefdc.repl.co:443?flow=&encryption=none&security=tls&sni=nofhdjw--cdefdc.repl.co&type=ws&host=nofhdjw--cdefdc.repl.co&path=/a98de81b-fbf6-4503-871f-c4cc0a6b3ae9-vless&headerType=none&alpn=&fp=&pbk=&sid=&spx=# 
+vless://58fcaf75-6e78-42d0-8714-3e38d511bec7@icook.tw:443?encryption=none&security=tls&sni=k.nytoda.tk&type=ws&host=k.nytoda.tk&path=%2Fargox-vl#ArgoX-Vl
+----------------------------
+vmess://eyAidiI6ICIyIiwgInBzIjogIkFyZ29YLVZtIiwgImFkZCI6ICJpY29vay50dyIsICJwb3J0IjogIjQ0MyIsICJpZCI6ICI1OGZjYWY3NS02ZTc4LTQyZDAtODcxNC0zZTM4ZDUxMWJlYzciLCAiYWlkIjogIjAiLCAic2N5IjogIm5vbmUiLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJob3N0IjogImsubnl0b2RhLnRrIiwgInBhdGgiOiAiL2FyZ294LXZtIiwgInRscyI6ICJ0bHMiLCAic25pIjogImsubnl0b2RhLnRrIiwgImFscG4iOiAiIiB9Cg==
+----------------------------
+trojan://58fcaf75-6e78-42d0-8714-3e38d511bec7@icook.tw:443?security=tls&sni=k.nytoda.tk&type=ws&host=k.nytoda.tk&path=%2Fargox-tr#ArgoX-Tr
